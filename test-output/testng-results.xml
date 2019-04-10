@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15020" started-at="2019-04-09T18:05:52Z" finished-at="2019-04-09T18:06:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15020" started-at="2019-04-09T18:05:52Z" finished-at="2019-04-09T18:06:07Z">
+      <class name="com.dixter.test.smoke.SampleTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.dixter.test.smoke.SampleTest@7823a2f9]" name="beforeMethod" is-config="true" duration-ms="14687" started-at="2019-04-09T18:05:52Z" finished-at="2019-04-09T18:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="SampleTest()[pri:0, instance:com.dixter.test.smoke.SampleTest@7823a2f9]" name="SampleTest" duration-ms="27" started-at="2019-04-09T18:06:07Z" finished-at="2019-04-09T18:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.dixter.test.smoke.SampleTest@7823a2f9]" name="afterMethod" is-config="true" duration-ms="282" started-at="2019-04-09T18:06:07Z" finished-at="2019-04-09T18:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.dixter.test.smoke.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
